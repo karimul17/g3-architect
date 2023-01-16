@@ -1,0 +1,131 @@
+.header{
+    width: 1920px;
+height: 1322px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 144, 14, 0.1);
+}
+.header-seation{
+    display: flex;
+}
+/*navagasion-bar*/
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 225px;
+   }
+  
+   nav ul{
+    display: flex;
+    align-items: center;
+    margin-inline-start: 500px;
+   }
+   nav li{
+    list-style: none;
+    margin-left: 50px;
+   }
+   /*header-container*/
+   .header-container{
+    text-align: center;
+   padding-right: 340px;
+   }
+   .header-h{
+    padding: 0px 573px;
+    font-size: 49px;
+   }
+   .header-p{
+    font-size: 10px;
+    font-weight: 300;
+    padding: 0 620px;
+}
+.button{
+    padding: 15px;
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.banner-img{
+    height: 700px;
+    width: 1094px;
+    padding-left: 210px;
+}
+/*features-seation*/
+
+.features{
+    margin: 20px 200px;
+  align-items: center;
+  display: flex;
+ 
+   }
+   .features-container{
+    margin-left: 50px;
+   }
+   .features-h{
+    font-size: 45px;
+line-height: 53px;
+padding-right: 220px;
+   }
+   .features-p{
+    font-size: 13px;
+    color: #757575;
+    margin-bottom: 30px;
+    padding-right: 266px;
+
+   }
+   /*love-seation*/
+   .love-enjoy{
+    display: flex;
+    padding: 0 210px;
+   }
+   .love-enjoy-h{
+    font-size: 50px;
+   }
+   .love-enjoy-p{
+    font-size: 18px;
+   }
+   .love-h{
+
+   }
+   .love-p{
+color:#727272;
+   }
+   /*some-seation*/
+   .some{
+    margin-left: 70px;
+   }
+   .some-h{
+
+   }
+   .some-p{
+    font-size: 10px;
+   color:#727272;
+   padding-right: 1260px;
+   }
+   /*sponspors*/
+   .Sponspors{
+    text-align: center;
+   }
+   .sponspors-h{
+    font-size: 50px;
+   }
+   .sponspors-p{
+    font-size: 15px;
+    color: #727272;
+    padding: 0 570px;
+    margin-bottom: 25px;
+   }
+   /*logo*/
+   .logo{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 240px;
+   }/*footer-seation*/
+   .footer-p{
+    padding: 10px 100px;
+    background-color: antiquewhite;
+    text-align: center;
+    border-radius: 5px;
+   }
+  
+   
